@@ -1,1 +1,1 @@
-# FinalProject
+Login/register page for users
